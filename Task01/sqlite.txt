@@ -1,0 +1,10 @@
+Версия SQLite: 3.53.4 (2026-07-24, 64-bit)
+
+Файлы, необходимые для работы СУБД SQLite:
+- sqlite3.exe — основной консольный клиент для работы с СУБД
+- sqldiff.exe — утилита сравнения двух баз данных
+- sqlite3_analyzer.exe — анализ использования места в БД
+- sqlite3_rsync.exe — синхронизация баз данных
+
+Режимы вывода данных (.mode) в sqlite3:
+ascii, box, c, column, count, csv, html, insert, jatom, jobject, json, line, list, markdown, off, psql, qbox, quote, split, table, tabs, tcl, batch, tty
